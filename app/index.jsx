@@ -8,6 +8,6 @@ if(process.env.NODE_ENV !== 'production') {
 }
 
 ReactDOM.render(
-<App/>,
+<App />,
   document.getElementById('app')
 );
